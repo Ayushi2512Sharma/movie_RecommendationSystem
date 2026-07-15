@@ -86,6 +86,30 @@ Movie_RecommendationSystem/
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🔍 Movie Search
+
+![Search](screenshots/search.png)
+
+---
+
+### 🎯 Recommendations
+
+![Recommendations](screenshots/recommendation.png)
+
+---
+
+### 🔥 Trending Movies
+
+![Trending](screenshots/trending.png)
+
 ## 📊 Recommendation Workflow
 
 ```text
